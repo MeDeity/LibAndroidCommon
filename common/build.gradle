@@ -124,4 +124,7 @@ bintray {
         licenses = ["Apache-2.0"]
         publish = true
     }
+//    使用以下指令执行上传命令
+//    gradlew install
+//    gradlew bintrayUpload
 }
