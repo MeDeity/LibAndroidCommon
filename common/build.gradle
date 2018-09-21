@@ -39,7 +39,7 @@ apply plugin: 'com.github.dcendents.android-maven'
 apply plugin: 'com.jfrog.bintray'
 
 // 声明当前的版本号
-version = "1.0.01"
+version = "1.0.02"
 //定义当前library的站点
 def siteUrl = 'https://github.com/MeDeity/LibAndroidCommon'    // project homepage
 def gitUrl = 'https://github.com/MeDeity/LibAndroidCommon.git' // project git
